@@ -6,4 +6,4 @@ Fullstack Web Developer
 
 *   🌍  I'm based in Venosa
 *   ✉️  You can contact me at [luca.stante@gmail.com](mailto:luca.stante@gmail.com)
-*   🧠  I'm learning UX/UI Design, Project Management### Skills
+*   🧠  I'm learning UX/UI Design, Project Management, Skills
